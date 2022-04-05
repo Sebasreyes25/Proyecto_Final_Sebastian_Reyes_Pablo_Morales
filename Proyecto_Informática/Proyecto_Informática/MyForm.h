@@ -1,7 +1,6 @@
 #pragma once
 
 #include <string>
-
 #include <msclr\marshal_cppstd.h>
 #include <msclr/marshal.h>
 #include <iostream>
@@ -16,11 +15,9 @@ namespace ProyectoFinalInformaticaII {
 	using namespace System::Data;
 	using namespace System::Drawing;
 	using namespace msclr::interop;
-	using namespace System::Runtime::InteropServices;
 	using namespace System::Collections::Generic;
 	using namespace System::Text;
 	using namespace System::Threading::Tasks;
-	using namespace msclr::interop;
 	using namespace std;
 
 	int horas;
@@ -292,9 +289,10 @@ namespace ProyectoFinalInformaticaII {
 			this->lblPre->AutoSize = true;
 			this->lblPre->Location = System::Drawing::Point(95, 105);
 			this->lblPre->Name = L"lblPre";
-			this->lblPre->Size = System::Drawing::Size(10, 13);
+			this->lblPre->Size = System::Drawing::Size(25, 13);
 			this->lblPre->TabIndex = 8;
-			this->lblPre->Text = L"-";
+			this->lblPre->Text = L"222";
+			this->lblPre->Click += gcnew System::EventHandler(this, &MyForm::lblPre_Click);
 			// 
 			// lblNom
 			// 
@@ -447,21 +445,7 @@ private: System::Void cmbIngenierias_SelectedIndexChanged(System::Object^ sender
 }
 
 	private: System::Void btnAgregar_Click(System::Object^ sender, System::EventArgs^ e) {
-		Presupuesto info;
-		int horas;
-		float precio;
-		System::String^ nom;
-		horas = Convert::ToInt16(lblCod->Text);
-		precio = Convert::ToInt16(lblPre->Text);
-		nom = lblNom->Text;
 
-		info.sethoras(horas);
-		info.setrpecio(precio);
-		info.setnom(nom);
-
-		lblCod->Text = info.gethoras();
-		lblPre->Text = info.getprecio();
-		lblNom->Text = info.getnom();
 
 	}
 
@@ -469,5 +453,7 @@ private: System::Void cmbIngenierias_SelectedIndexChanged(System::Object^ sender
 
 
 
+private: System::Void lblPre_Click(System::Object^ sender, System::EventArgs^ e) {
+}
 };
 };
