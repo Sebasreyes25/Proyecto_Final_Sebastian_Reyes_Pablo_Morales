@@ -16,9 +16,9 @@ private:
 public:
 
 
-	void sethoras(int hor)
+	void sethoras(int horas)
 	{
-		this->horas = hor;
+		this->horas = horas;
 	}
 	void setnom(std::string nom)
 	{

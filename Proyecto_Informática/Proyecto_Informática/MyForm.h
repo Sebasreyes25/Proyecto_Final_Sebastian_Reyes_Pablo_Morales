@@ -447,7 +447,21 @@ private: System::Void cmbIngenierias_SelectedIndexChanged(System::Object^ sender
 }
 
 	private: System::Void btnAgregar_Click(System::Object^ sender, System::EventArgs^ e) {
+		Presupuesto info;
+		int horas;
+		float precio;
+		System::String^ nom;
+		horas = Convert::ToInt16(lblCod->Text);
+		precio = Convert::ToInt16(lblPre->Text);
+		nom = lblNom->Text;
 
+		info.sethoras(horas);
+		info.setrpecio(precio);
+		info.setnom(nom);
+
+		lblCod->Text = info.gethoras();
+		lblPre->Text = info.getprecio();
+		lblNom->Text = info.getnom();
 
 	}
 

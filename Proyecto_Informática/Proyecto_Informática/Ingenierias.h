@@ -1,6 +1,5 @@
 #pragma once
 #include <string>
-#include <afxheaderctrl.h>
 #include <msclr\marshal_cppstd.h>
 #include <msclr/marshal.h>
 #include <iostream>
