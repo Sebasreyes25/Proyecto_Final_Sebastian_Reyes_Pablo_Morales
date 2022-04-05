@@ -11,7 +11,8 @@ private:
 	int horas;
 	std::string nom;
 	float precio;
-
+	int cuota;
+	int total; 
 
 public:
 
@@ -28,6 +29,11 @@ public:
 	{
 		this->precio = precio;
 	}
+	void setcuota(int cuo)
+	{
+		this->cuota = cuo;
+	}
+
 
 	int gethoras()
 	{
@@ -41,7 +47,10 @@ public:
 	{
 		return this->precio;
 	}
-
+	int getcuota()
+	{
+		return this->cuota;
+	}
 
 };
 

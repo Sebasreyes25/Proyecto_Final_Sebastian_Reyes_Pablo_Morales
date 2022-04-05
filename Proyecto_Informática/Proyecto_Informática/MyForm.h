@@ -92,6 +92,11 @@ namespace ProyectoFinalInformaticaII {
 	private: System::Windows::Forms::DataGridViewTextBoxColumn^ Column5;
 
 
+
+
+
+
+
 	protected:
 
 	protected:
@@ -117,11 +122,6 @@ namespace ProyectoFinalInformaticaII {
 			this->btnAgregar = (gcnew System::Windows::Forms::Button());
 			this->tbxPorcentaje = (gcnew System::Windows::Forms::TextBox());
 			this->dvgLista = (gcnew System::Windows::Forms::DataGridView());
-			this->Column1 = (gcnew System::Windows::Forms::DataGridViewTextBoxColumn());
-			this->Column2 = (gcnew System::Windows::Forms::DataGridViewTextBoxColumn());
-			this->Column3 = (gcnew System::Windows::Forms::DataGridViewTextBoxColumn());
-			this->Column4 = (gcnew System::Windows::Forms::DataGridViewTextBoxColumn());
-			this->Column5 = (gcnew System::Windows::Forms::DataGridViewTextBoxColumn());
 			this->label11 = (gcnew System::Windows::Forms::Label());
 			this->lblPresupuesto = (gcnew System::Windows::Forms::Label());
 			this->lblPre = (gcnew System::Windows::Forms::Label());
@@ -134,6 +134,11 @@ namespace ProyectoFinalInformaticaII {
 			this->lblIngenieria = (gcnew System::Windows::Forms::Label());
 			this->lblTitulo = (gcnew System::Windows::Forms::Label());
 			this->btnGuardar = (gcnew System::Windows::Forms::Button());
+			this->Column1 = (gcnew System::Windows::Forms::DataGridViewTextBoxColumn());
+			this->Column2 = (gcnew System::Windows::Forms::DataGridViewTextBoxColumn());
+			this->Column3 = (gcnew System::Windows::Forms::DataGridViewTextBoxColumn());
+			this->Column4 = (gcnew System::Windows::Forms::DataGridViewTextBoxColumn());
+			this->Column5 = (gcnew System::Windows::Forms::DataGridViewTextBoxColumn());
 			this->panel1->SuspendLayout();
 			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->dvgLista))->BeginInit();
 			this->SuspendLayout();
@@ -229,42 +234,12 @@ namespace ProyectoFinalInformaticaII {
 				this->Column1, this->Column2,
 					this->Column3, this->Column4, this->Column5
 			});
-			this->dvgLista->Location = System::Drawing::Point(6, 148);
+			this->dvgLista->Location = System::Drawing::Point(0, 148);
 			this->dvgLista->Name = L"dvgLista";
 			this->dvgLista->ReadOnly = true;
 			this->dvgLista->RowHeadersVisible = false;
-			this->dvgLista->Size = System::Drawing::Size(424, 105);
+			this->dvgLista->Size = System::Drawing::Size(438, 105);
 			this->dvgLista->TabIndex = 12;
-			// 
-			// Column1
-			// 
-			this->Column1->HeaderText = L"Código";
-			this->Column1->Name = L"Column1";
-			this->Column1->ReadOnly = true;
-			// 
-			// Column2
-			// 
-			this->Column2->HeaderText = L"Ingeniería";
-			this->Column2->Name = L"Column2";
-			this->Column2->ReadOnly = true;
-			// 
-			// Column3
-			// 
-			this->Column3->HeaderText = L"Precio";
-			this->Column3->Name = L"Column3";
-			this->Column3->ReadOnly = true;
-			// 
-			// Column4
-			// 
-			this->Column4->HeaderText = L"% Beca";
-			this->Column4->Name = L"Column4";
-			this->Column4->ReadOnly = true;
-			// 
-			// Column5
-			// 
-			this->Column5->HeaderText = L"Total";
-			this->Column5->Name = L"Column5";
-			this->Column5->ReadOnly = true;
 			// 
 			// label11
 			// 
@@ -289,9 +264,9 @@ namespace ProyectoFinalInformaticaII {
 			this->lblPre->AutoSize = true;
 			this->lblPre->Location = System::Drawing::Point(95, 105);
 			this->lblPre->Name = L"lblPre";
-			this->lblPre->Size = System::Drawing::Size(25, 13);
+			this->lblPre->Size = System::Drawing::Size(10, 13);
 			this->lblPre->TabIndex = 8;
-			this->lblPre->Text = L"222";
+			this->lblPre->Text = L"-";
 			this->lblPre->Click += gcnew System::EventHandler(this, &MyForm::lblPre_Click);
 			// 
 			// lblNom
@@ -374,6 +349,36 @@ namespace ProyectoFinalInformaticaII {
 			this->btnGuardar->TabIndex = 15;
 			this->btnGuardar->Text = L"Guardar";
 			this->btnGuardar->UseVisualStyleBackColor = true;
+			// 
+			// Column1
+			// 
+			this->Column1->HeaderText = L"Horas Beca";
+			this->Column1->Name = L"Column1";
+			this->Column1->ReadOnly = true;
+			// 
+			// Column2
+			// 
+			this->Column2->HeaderText = L"Ingeniería";
+			this->Column2->Name = L"Column2";
+			this->Column2->ReadOnly = true;
+			// 
+			// Column3
+			// 
+			this->Column3->HeaderText = L"Precio";
+			this->Column3->Name = L"Column3";
+			this->Column3->ReadOnly = true;
+			// 
+			// Column4
+			// 
+			this->Column4->HeaderText = L"% Beca";
+			this->Column4->Name = L"Column4";
+			this->Column4->ReadOnly = true;
+			// 
+			// Column5
+			// 
+			this->Column5->HeaderText = L"Total";
+			this->Column5->Name = L"Column5";
+			this->Column5->ReadOnly = true;
 			// 
 			// MyForm
 			// 
