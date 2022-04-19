@@ -1,4 +1,7 @@
 #pragma once
+#include "Ingenieria.h"
+#include <iostream>
+#include <string>
 
 namespace ProyectFinalIn {
 
@@ -77,6 +80,7 @@ namespace ProyectFinalIn {
 	private: System::Windows::Forms::Label^ label3;
 	private: System::Windows::Forms::Label^ label2;
 	private: System::Windows::Forms::Label^ label1;
+	private: System::Windows::Forms::Label^ label12;
 
 	private:
 		/// <summary>
@@ -130,6 +134,7 @@ namespace ProyectFinalIn {
 			this->label3 = (gcnew System::Windows::Forms::Label());
 			this->label2 = (gcnew System::Windows::Forms::Label());
 			this->label1 = (gcnew System::Windows::Forms::Label());
+			this->label12 = (gcnew System::Windows::Forms::Label());
 			this->SuspendLayout();
 			// 
 			// bt2
@@ -140,6 +145,7 @@ namespace ProyectFinalIn {
 			this->bt2->TabIndex = 94;
 			this->bt2->Text = L"Costo Parqueo Total";
 			this->bt2->UseVisualStyleBackColor = true;
+			this->bt2->Click += gcnew System::EventHandler(this, &IngenieriaIndustrial::bt2_Click);
 			// 
 			// tbx9
 			// 
@@ -246,6 +252,7 @@ namespace ProyectFinalIn {
 			this->bt1->TabIndex = 81;
 			this->bt1->Text = L"Guardar Informacion";
 			this->bt1->UseVisualStyleBackColor = true;
+			this->bt1->Click += gcnew System::EventHandler(this, &IngenieriaIndustrial::bt1_Click);
 			// 
 			// tbx8
 			// 
@@ -467,11 +474,21 @@ namespace ProyectFinalIn {
 			this->label1->TabIndex = 106;
 			this->label1->Text = L"Instrucciones:";
 			// 
+			// label12
+			// 
+			this->label12->AutoSize = true;
+			this->label12->Location = System::Drawing::Point(616, 40);
+			this->label12->Name = L"label12";
+			this->label12->Size = System::Drawing::Size(149, 20);
+			this->label12->TabIndex = 118;
+			this->label12->Text = L"Informacion usuario";
+			// 
 			// IngenieriaIndustrial
 			// 
 			this->AutoScaleDimensions = System::Drawing::SizeF(9, 20);
 			this->AutoScaleMode = System::Windows::Forms::AutoScaleMode::Font;
 			this->ClientSize = System::Drawing::Size(1344, 498);
+			this->Controls->Add(this->label12);
 			this->Controls->Add(this->label11);
 			this->Controls->Add(this->label10);
 			this->Controls->Add(this->label9);
@@ -518,5 +535,56 @@ namespace ProyectFinalIn {
 
 		}
 #pragma endregion
-	};
+	private: System::Void bt1_Click(System::Object^ sender, System::EventArgs^ e) {
+		Ingenieria datosingenieria;
+		System::String^ nombrealum;
+
+		int numcreditos;
+		int cantclases;
+		int valorcredito;
+		int horasbeca;
+		int numsemestres;
+		int beca;
+		nombrealum = tbx1->Text;
+
+		numcreditos = Convert::ToInt16(tbx3->Text);
+		cantclases = Convert::ToInt16(tbx4->Text);
+		valorcredito = Convert::ToInt16(tbx5->Text);
+		numsemestres = Convert::ToInt16(tbx6->Text);
+		horasbeca = Convert::ToInt16(tbx7->Text);
+		beca = Convert::ToInt16(tbx8->Text);
+
+		datosingenieria.setnombrealum(nombrealum);
+
+		datosingenieria.setnumcreditos(numcreditos);
+		datosingenieria.setcantclases(cantclases);
+		datosingenieria.setvalorcredito(valorcredito);
+		datosingenieria.setnumsemestres(numsemestres);
+		datosingenieria.sethorasbeca(horasbeca);
+		datosingenieria.setbeca(beca);
+
+		lbl12->Text = datosingenieria.getnombrealum();
+
+		lbl14->Text = "" + datosingenieria.getnumcrditos();
+		lbl15->Text = "" + datosingenieria.getcantclases();
+		lbl16->Text = "" + datosingenieria.getvalorcredito();
+		lbl17->Text = "" + datosingenieria.getnumsemestres();
+		lbl18->Text = "" + datosingenieria.gethorasbeca();
+		lbl19->Text = "" + datosingenieria.getbeca();
+	}
+private: System::Void bt2_Click(System::Object^ sender, System::EventArgs^ e) {
+	Ingenieria parqueo;
+	float cuotaparqueo;
+	float parqueototal;
+	int numsemestres;
+	cuotaparqueo = Convert::ToInt16(tbx9->Text);
+	parqueo.setcuotaparqueo(cuotaparqueo);
+	numsemestres = Convert::ToInt16(tbx6->Text);
+	parqueo.setnumsemestres(numsemestres);
+	// lbl22->Text = "" + parqueo.getcuotaparqueo();
+	// std::cout << "Ingrese el numero de semestres";
+	parqueototal = parqueo.getcuotaparqueo() * parqueo.getnumsemestres();
+	lbl22->Text = "" + parqueototal;
+}
+};
 }

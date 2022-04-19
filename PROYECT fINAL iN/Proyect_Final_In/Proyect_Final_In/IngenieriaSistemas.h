@@ -80,6 +80,7 @@ namespace ProyectFinalIn {
 	private: System::Windows::Forms::Label^ label9;
 	private: System::Windows::Forms::Label^ label10;
 	private: System::Windows::Forms::Label^ label11;
+	private: System::Windows::Forms::Label^ label12;
 
 	private:
 		/// <summary>
@@ -133,6 +134,7 @@ namespace ProyectFinalIn {
 			this->label9 = (gcnew System::Windows::Forms::Label());
 			this->label10 = (gcnew System::Windows::Forms::Label());
 			this->label11 = (gcnew System::Windows::Forms::Label());
+			this->label12 = (gcnew System::Windows::Forms::Label());
 			this->SuspendLayout();
 			// 
 			// bt2
@@ -472,11 +474,21 @@ namespace ProyectFinalIn {
 			this->label11->TabIndex = 105;
 			this->label11->Text = L"8. El valor del parqueo es de 900 por semestre";
 			// 
+			// label12
+			// 
+			this->label12->AutoSize = true;
+			this->label12->Location = System::Drawing::Point(581, 54);
+			this->label12->Name = L"label12";
+			this->label12->Size = System::Drawing::Size(149, 20);
+			this->label12->TabIndex = 118;
+			this->label12->Text = L"Informacion usuario";
+			// 
 			// IngenieriaSistemas
 			// 
 			this->AutoScaleDimensions = System::Drawing::SizeF(9, 20);
 			this->AutoScaleMode = System::Windows::Forms::AutoScaleMode::Font;
 			this->ClientSize = System::Drawing::Size(1409, 509);
+			this->Controls->Add(this->label12);
 			this->Controls->Add(this->label11);
 			this->Controls->Add(this->label10);
 			this->Controls->Add(this->label9);
