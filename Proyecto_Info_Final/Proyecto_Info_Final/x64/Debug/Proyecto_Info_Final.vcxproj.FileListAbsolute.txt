@@ -1,0 +1,4 @@
+C:\Users\Sebastian\OneDrive\Documentos\Universidad Trabajos\TERCER SEMESTRE\INFORMATICA 2\Laboratorio 9\Proyecto final INFORMATICA\Proyecto_Info_Final\Proyecto_Info_Final\x64\Debug\Proyecto_Info_Final.vcxproj.AssemblyReference.cache
+C:\Users\Sebastian\OneDrive\Documentos\Universidad Trabajos\TERCER SEMESTRE\INFORMATICA 2\Laboratorio 9\Proyecto final INFORMATICA\Proyecto_Info_Final\Proyecto_Info_Final\x64\Debug\Proyecto_Info_Final.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Sebastian\OneDrive\Documentos\Universidad Trabajos\TERCER SEMESTRE\INFORMATICA 2\Laboratorio 9\Proyecto final INFORMATICA\Proyecto_Info_Final\Proyecto_Info_Final\x64\Debug\ProyectoInfoFinal.MyForm.resources
+C:\Users\Sebastian\OneDrive\Documentos\Universidad Trabajos\TERCER SEMESTRE\INFORMATICA 2\Laboratorio 9\Proyecto final INFORMATICA\Proyecto_Info_Final\Proyecto_Info_Final\x64\Debug\Proyecto_Info_Final.vcxproj.GenerateResource.cache
