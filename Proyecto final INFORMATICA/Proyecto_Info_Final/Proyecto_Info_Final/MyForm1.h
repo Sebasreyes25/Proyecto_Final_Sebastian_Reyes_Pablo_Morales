@@ -2,7 +2,8 @@
 #include "Ingenieria.h"
 #include <iostream>
 #include <string>
-
+#include <msclr\marshal_cppstd.h>
+#include <msclr\marshal.h>
 namespace ProyectoInfoFinal {
 
 	using namespace System;
