@@ -1,0 +1,21 @@
+﻿  IngenieriaComercial.cpp
+C:\Users\Sebastian\Downloads\Proyecto Final. Informática II\Proyecto Final. Informática II\PROYECT fINAL iN\Proyect_Final_In\Proyect_Final_In\IngenieriaComercial.h(907,31): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Sebastian\Downloads\Proyecto Final. Informática II\Proyecto Final. Informática II\PROYECT fINAL iN\Proyect_Final_In\Proyect_Final_In\IngenieriaComercial.h(911,43): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  IngenieriaIndustrial.cpp
+C:\Users\Sebastian\Downloads\Proyecto Final. Informática II\Proyecto Final. Informática II\PROYECT fINAL iN\Proyect_Final_In\Proyect_Final_In\IngenieriaIndustrial.h(954,31): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Sebastian\Downloads\Proyecto Final. Informática II\Proyecto Final. Informática II\PROYECT fINAL iN\Proyect_Final_In\Proyect_Final_In\IngenieriaIndustrial.h(958,43): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  IngenieriaSistemas.cpp
+C:\Users\Sebastian\Downloads\Proyecto Final. Informática II\Proyecto Final. Informática II\PROYECT fINAL iN\Proyect_Final_In\Proyect_Final_In\IngenieriaSistemas.h(909,31): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Sebastian\Downloads\Proyecto Final. Informática II\Proyecto Final. Informática II\PROYECT fINAL iN\Proyect_Final_In\Proyect_Final_In\IngenieriaSistemas.h(913,43): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  MyForm.cpp
+C:\Users\Sebastian\Downloads\Proyecto Final. Informática II\Proyecto Final. Informática II\PROYECT fINAL iN\Proyect_Final_In\Proyect_Final_In\IngenieriaSistemas.h(909,31): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Sebastian\Downloads\Proyecto Final. Informática II\Proyecto Final. Informática II\PROYECT fINAL iN\Proyect_Final_In\Proyect_Final_In\IngenieriaSistemas.h(913,43): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Sebastian\Downloads\Proyecto Final. Informática II\Proyecto Final. Informática II\PROYECT fINAL iN\Proyect_Final_In\Proyect_Final_In\IngenieriaComercial.h(907,31): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Sebastian\Downloads\Proyecto Final. Informática II\Proyecto Final. Informática II\PROYECT fINAL iN\Proyect_Final_In\Proyect_Final_In\IngenieriaComercial.h(911,43): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Sebastian\Downloads\Proyecto Final. Informática II\Proyecto Final. Informática II\PROYECT fINAL iN\Proyect_Final_In\Proyect_Final_In\IngenieriaIndustrial.h(954,31): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Sebastian\Downloads\Proyecto Final. Informática II\Proyecto Final. Informática II\PROYECT fINAL iN\Proyect_Final_In\Proyect_Final_In\IngenieriaIndustrial.h(958,43): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Sebastian\Downloads\Proyecto Final. Informática II\Proyecto Final. Informática II\PROYECT fINAL iN\Proyect_Final_In\Proyect_Final_In\IngenieriaElect.h(954,31): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Sebastian\Downloads\Proyecto Final. Informática II\Proyecto Final. Informática II\PROYECT fINAL iN\Proyect_Final_In\Proyect_Final_In\IngenieriaElect.h(958,43): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Generando código...
+  Ingenieria.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Proyect_Final_In.vcxproj -> C:\Users\Sebastian\Downloads\Proyecto Final. Informática II\Proyecto Final. Informática II\PROYECT fINAL iN\Proyect_Final_In\x64\Debug\Proyect_Final_In.exe
