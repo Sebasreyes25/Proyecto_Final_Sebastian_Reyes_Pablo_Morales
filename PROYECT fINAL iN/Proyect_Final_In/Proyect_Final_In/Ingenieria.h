@@ -17,6 +17,8 @@ private:
 	float totalcarrera;
 	float cuotaparqueo;
 	float parqueototal;
+	float valorTotal;
+	float valorTbeca;
 
 public:
 
@@ -33,6 +35,8 @@ public:
 		totalcarrera = 0;
 		cuotaparqueo = 0;
 		parqueototal = 0;
+		valorTotal = 0;
+		valorTbeca = 0;
 	}
 	~Ingenieria() {
 
@@ -117,9 +121,18 @@ public:
 		return parqueototal;
 	}
 
+	void setvalorTotal(float valorTotal) {
+		this->valorTotal = valorTotal;
+	}
+	float getvalorTotal() {
+		return valorTotal;
+	}
 
-
-
-
+	void setvalorTbeca(float valorTbeca) {
+		this->valorTbeca = valorTbeca;
+	}
+	float getvalorTbeca() {
+		return valorTbeca;
+	}
 
 };

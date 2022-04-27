@@ -14,3 +14,19 @@ C:\Users\pablo\Downloads\VISUAL\PROYECT fINAL iN\Proyect_Final_In\Proyect_Final_
 C:\Users\pablo\Downloads\VISUAL\PROYECT fINAL iN\Proyect_Final_In\Proyect_Final_In\x64\Debug\ProyectFinalIn.IngenieriaSistemas.resources
 C:\Users\pablo\Downloads\VISUAL\PROYECT fINAL iN\Proyect_Final_In\Proyect_Final_In\x64\Debug\ProyectFinalIn.MyForm.resources
 C:\Users\pablo\Downloads\VISUAL\PROYECT fINAL iN\Proyect_Final_In\Proyect_Final_In\x64\Debug\Proyect_Final_In.vcxproj.GenerateResource.cache
+C:\Users\Sebastian\OneDrive\Documentos\Proyecto actualizado\PROYECT fINAL iN\PROYECT fINAL iN\Proyect_Final_In\Proyect_Final_In\x64\Debug\Proyect_Final_In.vcxproj.AssemblyReference.cache
+C:\Users\Sebastian\OneDrive\Documentos\Proyecto actualizado\PROYECT fINAL iN\PROYECT fINAL iN\Proyect_Final_In\Proyect_Final_In\x64\Debug\Proyect_Final_In.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Sebastian\OneDrive\Documentos\Proyecto actualizado\PROYECT fINAL iN\PROYECT fINAL iN\Proyect_Final_In\Proyect_Final_In\x64\Debug\ProyectFinalIn.IngenieriaComercial.resources
+C:\Users\Sebastian\OneDrive\Documentos\Proyecto actualizado\PROYECT fINAL iN\PROYECT fINAL iN\Proyect_Final_In\Proyect_Final_In\x64\Debug\ProyectFinalIn.IngenieriaElect.resources
+C:\Users\Sebastian\OneDrive\Documentos\Proyecto actualizado\PROYECT fINAL iN\PROYECT fINAL iN\Proyect_Final_In\Proyect_Final_In\x64\Debug\ProyectFinalIn.IngenieriaIndustrial.resources
+C:\Users\Sebastian\OneDrive\Documentos\Proyecto actualizado\PROYECT fINAL iN\PROYECT fINAL iN\Proyect_Final_In\Proyect_Final_In\x64\Debug\ProyectFinalIn.IngenieriaSistemas.resources
+C:\Users\Sebastian\OneDrive\Documentos\Proyecto actualizado\PROYECT fINAL iN\PROYECT fINAL iN\Proyect_Final_In\Proyect_Final_In\x64\Debug\ProyectFinalIn.MyForm.resources
+C:\Users\Sebastian\OneDrive\Documentos\Proyecto actualizado\PROYECT fINAL iN\PROYECT fINAL iN\Proyect_Final_In\Proyect_Final_In\x64\Debug\Proyect_Final_In.vcxproj.GenerateResource.cache
+C:\Users\pablo\Downloads\VISUAL\PROYECT fINAL iN\PROYECT fINAL iN\Proyect_Final_In\Proyect_Final_In\x64\Debug\Proyect_Final_In.vcxproj.AssemblyReference.cache
+C:\Users\pablo\Downloads\VISUAL\PROYECT fINAL iN\PROYECT fINAL iN\Proyect_Final_In\Proyect_Final_In\x64\Debug\Proyect_Final_In.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\pablo\Downloads\VISUAL\PROYECT fINAL iN\PROYECT fINAL iN\Proyect_Final_In\Proyect_Final_In\x64\Debug\ProyectFinalIn.IngenieriaComercial.resources
+C:\Users\pablo\Downloads\VISUAL\PROYECT fINAL iN\PROYECT fINAL iN\Proyect_Final_In\Proyect_Final_In\x64\Debug\ProyectFinalIn.IngenieriaElect.resources
+C:\Users\pablo\Downloads\VISUAL\PROYECT fINAL iN\PROYECT fINAL iN\Proyect_Final_In\Proyect_Final_In\x64\Debug\ProyectFinalIn.IngenieriaIndustrial.resources
+C:\Users\pablo\Downloads\VISUAL\PROYECT fINAL iN\PROYECT fINAL iN\Proyect_Final_In\Proyect_Final_In\x64\Debug\ProyectFinalIn.IngenieriaSistemas.resources
+C:\Users\pablo\Downloads\VISUAL\PROYECT fINAL iN\PROYECT fINAL iN\Proyect_Final_In\Proyect_Final_In\x64\Debug\ProyectFinalIn.MyForm.resources
+C:\Users\pablo\Downloads\VISUAL\PROYECT fINAL iN\PROYECT fINAL iN\Proyect_Final_In\Proyect_Final_In\x64\Debug\Proyect_Final_In.vcxproj.GenerateResource.cache
