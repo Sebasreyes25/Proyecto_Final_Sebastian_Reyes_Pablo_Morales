@@ -170,7 +170,7 @@ namespace ProyectFinalIn {
 			// 
 			this->bt2->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 9.75F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->bt2->Location = System::Drawing::Point(1215, 483);
+			this->bt2->Location = System::Drawing::Point(1208, 444);
 			this->bt2->Name = L"bt2";
 			this->bt2->Size = System::Drawing::Size(126, 63);
 			this->bt2->TabIndex = 94;
@@ -183,7 +183,7 @@ namespace ProyectFinalIn {
 			this->tbx9->BackColor = System::Drawing::Color::Silver;
 			this->tbx9->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 9.75F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->tbx9->Location = System::Drawing::Point(1312, 434);
+			this->tbx9->Location = System::Drawing::Point(1305, 395);
 			this->tbx9->Name = L"tbx9";
 			this->tbx9->Size = System::Drawing::Size(100, 30);
 			this->tbx9->TabIndex = 93;
@@ -193,7 +193,7 @@ namespace ProyectFinalIn {
 			this->lbl22->AutoSize = true;
 			this->lbl22->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 9.75F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->lbl22->Location = System::Drawing::Point(1448, 438);
+			this->lbl22->Location = System::Drawing::Point(1441, 399);
 			this->lbl22->Name = L"lbl22";
 			this->lbl22->Size = System::Drawing::Size(30, 25);
 			this->lbl22->TabIndex = 92;
@@ -204,7 +204,7 @@ namespace ProyectFinalIn {
 			this->lbl21->AutoSize = true;
 			this->lbl21->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 9.75F, static_cast<System::Drawing::FontStyle>((System::Drawing::FontStyle::Bold | System::Drawing::FontStyle::Underline)),
 				System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(0)));
-			this->lbl21->Location = System::Drawing::Point(1136, 395);
+			this->lbl21->Location = System::Drawing::Point(1129, 356);
 			this->lbl21->Name = L"lbl21";
 			this->lbl21->Size = System::Drawing::Size(266, 25);
 			this->lbl21->TabIndex = 91;
@@ -215,7 +215,7 @@ namespace ProyectFinalIn {
 			this->lbl20->AutoSize = true;
 			this->lbl20->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 9.75F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->lbl20->Location = System::Drawing::Point(1070, 438);
+			this->lbl20->Location = System::Drawing::Point(1063, 399);
 			this->lbl20->Name = L"lbl20";
 			this->lbl20->Size = System::Drawing::Size(224, 25);
 			this->lbl20->TabIndex = 90;
@@ -226,7 +226,7 @@ namespace ProyectFinalIn {
 			this->lbl19->AutoSize = true;
 			this->lbl19->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 9.75F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->lbl19->Location = System::Drawing::Point(1448, 238);
+			this->lbl19->Location = System::Drawing::Point(1441, 199);
 			this->lbl19->Name = L"lbl19";
 			this->lbl19->Size = System::Drawing::Size(30, 25);
 			this->lbl19->TabIndex = 89;
@@ -237,7 +237,7 @@ namespace ProyectFinalIn {
 			this->lbl18->AutoSize = true;
 			this->lbl18->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 9.75F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->lbl18->Location = System::Drawing::Point(1448, 188);
+			this->lbl18->Location = System::Drawing::Point(1441, 149);
 			this->lbl18->Name = L"lbl18";
 			this->lbl18->Size = System::Drawing::Size(30, 25);
 			this->lbl18->TabIndex = 88;
@@ -248,7 +248,7 @@ namespace ProyectFinalIn {
 			this->lbl17->AutoSize = true;
 			this->lbl17->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 9.75F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->lbl17->Location = System::Drawing::Point(999, 486);
+			this->lbl17->Location = System::Drawing::Point(960, 486);
 			this->lbl17->Name = L"lbl17";
 			this->lbl17->Size = System::Drawing::Size(30, 25);
 			this->lbl17->TabIndex = 87;
@@ -259,7 +259,7 @@ namespace ProyectFinalIn {
 			this->lbl16->AutoSize = true;
 			this->lbl16->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 9.75F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->lbl16->Location = System::Drawing::Point(999, 437);
+			this->lbl16->Location = System::Drawing::Point(960, 437);
 			this->lbl16->Name = L"lbl16";
 			this->lbl16->Size = System::Drawing::Size(30, 25);
 			this->lbl16->TabIndex = 86;
@@ -270,7 +270,7 @@ namespace ProyectFinalIn {
 			this->lbl15->AutoSize = true;
 			this->lbl15->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 9.75F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->lbl15->Location = System::Drawing::Point(999, 386);
+			this->lbl15->Location = System::Drawing::Point(960, 386);
 			this->lbl15->Name = L"lbl15";
 			this->lbl15->Size = System::Drawing::Size(30, 25);
 			this->lbl15->TabIndex = 85;
@@ -281,7 +281,7 @@ namespace ProyectFinalIn {
 			this->lbl14->AutoSize = true;
 			this->lbl14->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 9.75F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->lbl14->Location = System::Drawing::Point(999, 335);
+			this->lbl14->Location = System::Drawing::Point(960, 335);
 			this->lbl14->Name = L"lbl14";
 			this->lbl14->Size = System::Drawing::Size(30, 25);
 			this->lbl14->TabIndex = 84;
@@ -292,7 +292,7 @@ namespace ProyectFinalIn {
 			this->lbl12->AutoSize = true;
 			this->lbl12->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 9.75F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->lbl12->Location = System::Drawing::Point(894, 214);
+			this->lbl12->Location = System::Drawing::Point(855, 214);
 			this->lbl12->Name = L"lbl12";
 			this->lbl12->Size = System::Drawing::Size(30, 25);
 			this->lbl12->TabIndex = 82;
@@ -302,7 +302,7 @@ namespace ProyectFinalIn {
 			// 
 			this->bt1->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 9.75F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->bt1->Location = System::Drawing::Point(1101, 286);
+			this->bt1->Location = System::Drawing::Point(1094, 247);
 			this->bt1->Name = L"bt1";
 			this->bt1->Size = System::Drawing::Size(158, 74);
 			this->bt1->TabIndex = 81;
@@ -315,7 +315,7 @@ namespace ProyectFinalIn {
 			this->tbx8->BackColor = System::Drawing::Color::Silver;
 			this->tbx8->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 9.75F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->tbx8->Location = System::Drawing::Point(1317, 232);
+			this->tbx8->Location = System::Drawing::Point(1310, 193);
 			this->tbx8->Name = L"tbx8";
 			this->tbx8->Size = System::Drawing::Size(100, 30);
 			this->tbx8->TabIndex = 80;
@@ -325,7 +325,7 @@ namespace ProyectFinalIn {
 			this->tbx7->BackColor = System::Drawing::Color::Silver;
 			this->tbx7->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 9.75F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->tbx7->Location = System::Drawing::Point(1317, 183);
+			this->tbx7->Location = System::Drawing::Point(1310, 144);
 			this->tbx7->Name = L"tbx7";
 			this->tbx7->Size = System::Drawing::Size(100, 30);
 			this->tbx7->TabIndex = 79;
@@ -335,7 +335,7 @@ namespace ProyectFinalIn {
 			this->lbl11->AutoSize = true;
 			this->lbl11->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 9.75F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->lbl11->Location = System::Drawing::Point(1096, 237);
+			this->lbl11->Location = System::Drawing::Point(1089, 198);
 			this->lbl11->Name = L"lbl11";
 			this->lbl11->Size = System::Drawing::Size(198, 25);
 			this->lbl11->TabIndex = 78;
@@ -346,7 +346,7 @@ namespace ProyectFinalIn {
 			this->lbl10->AutoSize = true;
 			this->lbl10->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 9.75F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->lbl10->Location = System::Drawing::Point(1096, 191);
+			this->lbl10->Location = System::Drawing::Point(1089, 152);
 			this->lbl10->Name = L"lbl10";
 			this->lbl10->Size = System::Drawing::Size(124, 25);
 			this->lbl10->TabIndex = 77;
@@ -357,7 +357,7 @@ namespace ProyectFinalIn {
 			this->tbx6->BackColor = System::Drawing::Color::Silver;
 			this->tbx6->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 9.75F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->tbx6->Location = System::Drawing::Point(872, 483);
+			this->tbx6->Location = System::Drawing::Point(833, 483);
 			this->tbx6->Name = L"tbx6";
 			this->tbx6->Size = System::Drawing::Size(100, 30);
 			this->tbx6->TabIndex = 76;
@@ -367,7 +367,7 @@ namespace ProyectFinalIn {
 			this->tbx5->BackColor = System::Drawing::Color::Silver;
 			this->tbx5->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 9.75F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->tbx5->Location = System::Drawing::Point(872, 431);
+			this->tbx5->Location = System::Drawing::Point(833, 431);
 			this->tbx5->Name = L"tbx5";
 			this->tbx5->Size = System::Drawing::Size(100, 30);
 			this->tbx5->TabIndex = 75;
@@ -377,7 +377,7 @@ namespace ProyectFinalIn {
 			this->tbx4->BackColor = System::Drawing::Color::Silver;
 			this->tbx4->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 9.75F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->tbx4->Location = System::Drawing::Point(872, 382);
+			this->tbx4->Location = System::Drawing::Point(833, 382);
 			this->tbx4->Name = L"tbx4";
 			this->tbx4->Size = System::Drawing::Size(100, 30);
 			this->tbx4->TabIndex = 74;
@@ -387,7 +387,7 @@ namespace ProyectFinalIn {
 			this->tbx3->BackColor = System::Drawing::Color::Silver;
 			this->tbx3->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 9.75F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->tbx3->Location = System::Drawing::Point(872, 331);
+			this->tbx3->Location = System::Drawing::Point(833, 331);
 			this->tbx3->Name = L"tbx3";
 			this->tbx3->Size = System::Drawing::Size(100, 30);
 			this->tbx3->TabIndex = 73;
@@ -397,7 +397,7 @@ namespace ProyectFinalIn {
 			this->lbl8->AutoSize = true;
 			this->lbl8->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 9.75F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->lbl8->Location = System::Drawing::Point(626, 488);
+			this->lbl8->Location = System::Drawing::Point(587, 488);
 			this->lbl8->Name = L"lbl8";
 			this->lbl8->Size = System::Drawing::Size(226, 25);
 			this->lbl8->TabIndex = 72;
@@ -408,7 +408,7 @@ namespace ProyectFinalIn {
 			this->lbl7->AutoSize = true;
 			this->lbl7->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 9.75F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->lbl7->Location = System::Drawing::Point(626, 435);
+			this->lbl7->Location = System::Drawing::Point(587, 435);
 			this->lbl7->Name = L"lbl7";
 			this->lbl7->Size = System::Drawing::Size(174, 25);
 			this->lbl7->TabIndex = 71;
@@ -419,7 +419,7 @@ namespace ProyectFinalIn {
 			this->lbl6->AutoSize = true;
 			this->lbl6->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 9.75F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->lbl6->Location = System::Drawing::Point(626, 386);
+			this->lbl6->Location = System::Drawing::Point(587, 386);
 			this->lbl6->Name = L"lbl6";
 			this->lbl6->Size = System::Drawing::Size(190, 25);
 			this->lbl6->TabIndex = 70;
@@ -430,7 +430,7 @@ namespace ProyectFinalIn {
 			this->lbl5->AutoSize = true;
 			this->lbl5->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 9.75F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->lbl5->Location = System::Drawing::Point(626, 335);
+			this->lbl5->Location = System::Drawing::Point(587, 335);
 			this->lbl5->Name = L"lbl5";
 			this->lbl5->Size = System::Drawing::Size(204, 25);
 			this->lbl5->TabIndex = 69;
@@ -441,7 +441,7 @@ namespace ProyectFinalIn {
 			this->lbl4->AutoSize = true;
 			this->lbl4->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 9.75F, static_cast<System::Drawing::FontStyle>((System::Drawing::FontStyle::Bold | System::Drawing::FontStyle::Underline)),
 				System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(0)));
-			this->lbl4->Location = System::Drawing::Point(690, 292);
+			this->lbl4->Location = System::Drawing::Point(651, 292);
 			this->lbl4->Name = L"lbl4";
 			this->lbl4->Size = System::Drawing::Size(203, 25);
 			this->lbl4->TabIndex = 68;
@@ -452,7 +452,7 @@ namespace ProyectFinalIn {
 			this->tbx1->BackColor = System::Drawing::Color::Silver;
 			this->tbx1->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 9.75F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->tbx1->Location = System::Drawing::Point(765, 211);
+			this->tbx1->Location = System::Drawing::Point(726, 211);
 			this->tbx1->Name = L"tbx1";
 			this->tbx1->Size = System::Drawing::Size(100, 30);
 			this->tbx1->TabIndex = 66;
@@ -462,7 +462,7 @@ namespace ProyectFinalIn {
 			this->lbl2->AutoSize = true;
 			this->lbl2->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 9.75F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->lbl2->Location = System::Drawing::Point(657, 211);
+			this->lbl2->Location = System::Drawing::Point(618, 211);
 			this->lbl2->Name = L"lbl2";
 			this->lbl2->Size = System::Drawing::Size(87, 25);
 			this->lbl2->TabIndex = 64;
@@ -594,7 +594,7 @@ namespace ProyectFinalIn {
 			this->label12->AutoSize = true;
 			this->label12->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 9.75F, static_cast<System::Drawing::FontStyle>((System::Drawing::FontStyle::Bold | System::Drawing::FontStyle::Underline)),
 				System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(0)));
-			this->label12->Location = System::Drawing::Point(688, 152);
+			this->label12->Location = System::Drawing::Point(649, 152);
 			this->label12->Name = L"label12";
 			this->label12->Size = System::Drawing::Size(204, 25);
 			this->label12->TabIndex = 118;
@@ -604,7 +604,7 @@ namespace ProyectFinalIn {
 			// 
 			this->button2->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 9.75F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->button2->Location = System::Drawing::Point(1590, 432);
+			this->button2->Location = System::Drawing::Point(1583, 393);
 			this->button2->Name = L"button2";
 			this->button2->Size = System::Drawing::Size(198, 78);
 			this->button2->TabIndex = 129;
@@ -616,7 +616,7 @@ namespace ProyectFinalIn {
 			// 
 			this->button1->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 9.75F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->button1->Location = System::Drawing::Point(1612, 245);
+			this->button1->Location = System::Drawing::Point(1605, 206);
 			this->button1->Name = L"button1";
 			this->button1->Size = System::Drawing::Size(152, 74);
 			this->button1->TabIndex = 128;
@@ -629,7 +629,7 @@ namespace ProyectFinalIn {
 			this->label16->AutoSize = true;
 			this->label16->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 9.75F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->label16->Location = System::Drawing::Point(1668, 397);
+			this->label16->Location = System::Drawing::Point(1661, 358);
 			this->label16->Name = L"label16";
 			this->label16->Size = System::Drawing::Size(30, 25);
 			this->label16->TabIndex = 127;
@@ -640,7 +640,7 @@ namespace ProyectFinalIn {
 			this->label15->AutoSize = true;
 			this->label15->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 9.75F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->label15->Location = System::Drawing::Point(1503, 372);
+			this->label15->Location = System::Drawing::Point(1496, 333);
 			this->label15->Name = L"label15";
 			this->label15->Size = System::Drawing::Size(401, 25);
 			this->label15->TabIndex = 126;
@@ -651,7 +651,7 @@ namespace ProyectFinalIn {
 			this->label14->AutoSize = true;
 			this->label14->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 9.75F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->label14->Location = System::Drawing::Point(1668, 211);
+			this->label14->Location = System::Drawing::Point(1661, 172);
 			this->label14->Name = L"label14";
 			this->label14->Size = System::Drawing::Size(30, 25);
 			this->label14->TabIndex = 125;
@@ -663,7 +663,7 @@ namespace ProyectFinalIn {
 			this->label13->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 9.75F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
 			this->label13->ImageKey = L"(ninguno)";
-			this->label13->Location = System::Drawing::Point(1536, 183);
+			this->label13->Location = System::Drawing::Point(1529, 144);
 			this->label13->Name = L"label13";
 			this->label13->Size = System::Drawing::Size(307, 25);
 			this->label13->TabIndex = 124;
@@ -684,7 +684,7 @@ namespace ProyectFinalIn {
 			// 
 			this->btnEliminarSis->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 9.75F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->btnEliminarSis->Location = System::Drawing::Point(1284, 286);
+			this->btnEliminarSis->Location = System::Drawing::Point(1277, 247);
 			this->btnEliminarSis->Name = L"btnEliminarSis";
 			this->btnEliminarSis->Size = System::Drawing::Size(158, 74);
 			this->btnEliminarSis->TabIndex = 131;
@@ -697,7 +697,7 @@ namespace ProyectFinalIn {
 			this->lbl30->AutoSize = true;
 			this->lbl30->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 9.75F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->lbl30->Location = System::Drawing::Point(974, 437);
+			this->lbl30->Location = System::Drawing::Point(935, 437);
 			this->lbl30->Margin = System::Windows::Forms::Padding(4, 0, 4, 0);
 			this->lbl30->Name = L"lbl30";
 			this->lbl30->Size = System::Drawing::Size(20, 25);
@@ -709,7 +709,7 @@ namespace ProyectFinalIn {
 			this->lbl31->AutoSize = true;
 			this->lbl31->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 9.75F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->lbl31->Location = System::Drawing::Point(1424, 438);
+			this->lbl31->Location = System::Drawing::Point(1417, 399);
 			this->lbl31->Margin = System::Windows::Forms::Padding(4, 0, 4, 0);
 			this->lbl31->Name = L"lbl31";
 			this->lbl31->Size = System::Drawing::Size(20, 25);
@@ -721,7 +721,7 @@ namespace ProyectFinalIn {
 			this->lbl33->AutoSize = true;
 			this->lbl33->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 9.75F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->lbl33->Location = System::Drawing::Point(1646, 395);
+			this->lbl33->Location = System::Drawing::Point(1639, 356);
 			this->lbl33->Margin = System::Windows::Forms::Padding(4, 0, 4, 0);
 			this->lbl33->Name = L"lbl33";
 			this->lbl33->Size = System::Drawing::Size(20, 25);
@@ -733,7 +733,7 @@ namespace ProyectFinalIn {
 			this->lbl32->AutoSize = true;
 			this->lbl32->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 9.75F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->lbl32->Location = System::Drawing::Point(1646, 209);
+			this->lbl32->Location = System::Drawing::Point(1639, 170);
 			this->lbl32->Margin = System::Windows::Forms::Padding(4, 0, 4, 0);
 			this->lbl32->Name = L"lbl32";
 			this->lbl32->Size = System::Drawing::Size(20, 25);
@@ -745,7 +745,7 @@ namespace ProyectFinalIn {
 			this->lbl34->AutoSize = true;
 			this->lbl34->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 9.75F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->lbl34->Location = System::Drawing::Point(1425, 237);
+			this->lbl34->Location = System::Drawing::Point(1418, 198);
 			this->lbl34->Margin = System::Windows::Forms::Padding(4, 0, 4, 0);
 			this->lbl34->Name = L"lbl34";
 			this->lbl34->Size = System::Drawing::Size(20, 25);
@@ -769,7 +769,7 @@ namespace ProyectFinalIn {
 			this->AutoScaleDimensions = System::Drawing::SizeF(9, 20);
 			this->AutoScaleMode = System::Windows::Forms::AutoScaleMode::Font;
 			this->BackColor = System::Drawing::Color::CadetBlue;
-			this->ClientSize = System::Drawing::Size(1924, 652);
+			this->ClientSize = System::Drawing::Size(1924, 654);
 			this->Controls->Add(this->button4);
 			this->Controls->Add(this->lbl34);
 			this->Controls->Add(this->lbl32);
@@ -834,41 +834,56 @@ namespace ProyectFinalIn {
 	private: System::Void bt1_Click(System::Object^ sender, System::EventArgs^ e) {
 		Ingenieria datosingenieria;
 		System::String^ nombrealum;
-		
-		int numcreditos;
-		int cantclases;
-		int valorcredito;
-		int horasbeca;
-		int numsemestres;
-		int beca;
-		nombrealum = tbx1->Text;
-		
-		numcreditos = Convert::ToInt16(tbx3->Text);
-		cantclases = Convert::ToInt16(tbx4->Text);
-		valorcredito = Convert::ToInt16(tbx5->Text);
-		numsemestres = Convert::ToInt16(tbx6->Text);
-		horasbeca = Convert::ToInt16(tbx7->Text);
-		beca = Convert::ToInt16(tbx8->Text);
 
-		datosingenieria.setnombrealum(nombrealum);
-		
-		datosingenieria.setnumcreditos(numcreditos);
-		datosingenieria.setcantclases(cantclases);
-		datosingenieria.setvalorcredito(valorcredito);
-		datosingenieria.setnumsemestres(numsemestres);
-		datosingenieria.sethorasbeca(horasbeca);
-		datosingenieria.setbeca(beca);
 
-		lbl12->Text = datosingenieria.getnombrealum();
-		lbl14->Text = "" + datosingenieria.getnumcrditos();
-		lbl15->Text = "" + datosingenieria.getcantclases();
-		lbl30->Text = "Q";
-		lbl16->Text = "" + datosingenieria.getvalorcredito();
-		lbl17->Text = "" + datosingenieria.getnumsemestres();
-		lbl18->Text = "" + datosingenieria.gethorasbeca();
-		lbl34->Text = "%";
-		lbl19->Text = "" + datosingenieria.getbeca();
+		try {
+			if ((tbx3->Text == "") || (tbx4->Text == "") || (tbx5->Text == "") || (tbx6->Text == "") || (tbx7->Text == "") || (tbx8->Text == "")) {
+				MessageBox::Show("Debe de llenar todas las casillas.");
+			}
+			else {
+
+				int numcreditos;
+				int cantclases;
+				int valorcredito;
+				int horasbeca;
+				int numsemestres;
+				int beca;
+				nombrealum = tbx1->Text;
+
+				numcreditos = Convert::ToInt16(tbx3->Text);
+				cantclases = Convert::ToInt16(tbx4->Text);
+				valorcredito = Convert::ToInt16(tbx5->Text);
+				numsemestres = Convert::ToInt16(tbx6->Text);
+				horasbeca = Convert::ToInt16(tbx7->Text);
+				beca = Convert::ToInt16(tbx8->Text);
+
+
+				datosingenieria.setnombrealum(nombrealum);
+
+				datosingenieria.setnumcreditos(numcreditos);
+				datosingenieria.setcantclases(cantclases);
+				datosingenieria.setvalorcredito(valorcredito);
+				datosingenieria.setnumsemestres(numsemestres);
+				datosingenieria.sethorasbeca(horasbeca);
+				datosingenieria.setbeca(beca);
+
+				lbl12->Text = datosingenieria.getnombrealum();
+				lbl14->Text = "" + datosingenieria.getnumcrditos();
+				lbl15->Text = "" + datosingenieria.getcantclases();
+				lbl30->Text = "Q";
+				lbl16->Text = "" + datosingenieria.getvalorcredito();
+				lbl17->Text = "" + datosingenieria.getnumsemestres();
+				lbl18->Text = "" + datosingenieria.gethorasbeca();
+				lbl34->Text = "%";
+				lbl19->Text = "" + datosingenieria.getbeca();
+			}
+			
+			}
+		catch (Exception^ ex) {
+			MessageBox::Show("El valor ingresado no es valido");
+		}
 	}
+
 private: System::Void bt2_Click(System::Object^ sender, System::EventArgs^ e) {
 	Ingenieria parqueo;
 	float cuotaparqueo;
@@ -880,7 +895,7 @@ private: System::Void bt2_Click(System::Object^ sender, System::EventArgs^ e) {
 	parqueo.setnumsemestres(numsemestres);
 	// lbl22->Text = "" + parqueo.getcuotaparqueo();
 	// std::cout << "Ingrese el numero de semestres";
-	parqueototal = parqueo.getcuotaparqueo() * parqueo.getnumsemestres();
+	parqueototal = (parqueo.getcuotaparqueo() * parqueo.getnumsemestres()) + 100;
 	lbl31->Text = "Q";
 	lbl22->Text = "" + parqueototal;
 }
@@ -905,12 +920,21 @@ private: System::Void button2_Click(System::Object^ sender, System::EventArgs^ e
 	float valorTbeca;
 	int beca;
 	float valorTotal;
+	int numcreditos;
+	int valorcredito;
+	float parqueototal;
+	parqueototal = Convert::ToInt16(lbl22->Text);
+	numcreditos = Convert::ToInt16(tbx3->Text);
+	valorcredito = Convert::ToInt16(tbx5->Text);
 	beca = Convert::ToInt16(tbx8->Text);
-	valorTotal = Convert::ToInt32(label14->Text);
+	valorTotal = Convert::ToDouble(label14->Text);
+	preciobeca.setparqueototal(parqueototal);
+	preciobeca.setnumcreditos(numcreditos);
+	preciobeca.setvalorcredito(valorcredito);
 	preciobeca.setbeca(beca);
 	preciobeca.setvalorTotal(valorTotal);
 
-	valorTbeca = (preciobeca.getvalorTotal() - ((preciobeca.getvalorTotal()) * (preciobeca.getbeca() / 100)));
+	valorTbeca = ((preciobeca.getnumcrditos() * preciobeca.getvalorcredito()) - (((preciobeca.getnumcrditos() * preciobeca.getvalorcredito()) * (preciobeca.getbeca() / 100))) + preciobeca.getparqueototal());
 	label16->Text = "" + valorTbeca;
 	lbl33->Text = "Q";
 }
@@ -954,6 +978,13 @@ private: System::Void button3_Click(System::Object^ sender, System::EventArgs^ e
 	lbl32->Text = "";
 	lbl33->Text = "";
 	lbl34->Text = "";
+	/*tbx1->Text = "";
+	tbx3->Text = "";
+	tbx4->Text = "";
+	tbx5->Text = "";
+	tbx6->Text = "";
+	tbx7->Text = "";
+	tbx8->Text = "";*/
 }
 private: System::Void button4_Click(System::Object^ sender, System::EventArgs^ e) {
 	this->Close();
